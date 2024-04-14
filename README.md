@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moonheeui
 - 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning Django and React
-- 💞️ I’m looking to intern position as a web designer
+- 🌱 I’m currently learning server frameworks such as Django and React.
+- 💞️ I am actively seeking a full-time role as a UX/UI designer.
 - 📫 How to reach me : lovekmhrosa@gmail.com
 
 <!---
